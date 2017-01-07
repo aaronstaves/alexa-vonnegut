@@ -1,0 +1,22 @@
+{
+  "name": "alexa-vonnegut",
+  "version": "1.0.0",
+  "description": "Random quotes from Kurt Vonnegut books",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "kurt",
+    "vonnegut",
+    "quote"
+  ],
+  "author": "Aaron Staves <aaron@aarons.io>",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^2.4.0",
+    "chai": "^3.5.0",
+    "lodash": "^4.17.4",
+    "mocha": "^3.2.0"
+  }
+}
